@@ -1,3 +1,3 @@
-# storybook-materialui-responsive-starter
+# next-storybook-storyshot-starter
 
 UNDER DEVELOPMENT
